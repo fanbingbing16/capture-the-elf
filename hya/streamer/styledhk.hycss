@@ -1,0 +1,46 @@
+.styledhk{
+    width:1090px;
+    height: 800px;
+    margin-top: -250px;
+    margin-left: 100px;
+    
+}
+.stylelm{
+    width:500px;
+    height:480px;
+    margin-top: -400px;
+    margin-left: 10px;
+    
+}
+.stylepg{
+    width: 60px;
+    height: 70px;
+    margin-top: -30px;
+    margin-left: 380px;
+    
+}
+.styleli{
+    font-size:30px;
+    margin-top: -510px;
+    margin-left: 510px;
+    width:230px;
+    overflow:hidden;
+  
+}
+.stylequestion{
+    margin-top: -600px;
+    margin-left: 480px;
+    width:150px;
+	height:50px;
+	 font-size:20px;
+	 color:#5ebda5;
+}
+.styleselect{
+    margin-top:200px;
+    margin-left:480px;
+    width:150px;
+	height:50px;
+	 font-size:20px;
+	 color:#5ebda5;
+     position:absolute;
+}

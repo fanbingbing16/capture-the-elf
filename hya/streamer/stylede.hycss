@@ -1,0 +1,24 @@
+.stylesucess{
+    width: 400px;
+    height:450px;
+    margin-left:10;
+    margin-top:-400;
+}
+.stylefalse{
+    width: 550px;
+    height: 400px;
+     margin-left:20;
+    margin-top:-440;
+}
+.stylep1{
+    font-size:30px;
+    margin-left:300px;
+    margin-top:450px;
+    color:#5ebda5;
+}
+.stylep2{
+    font-size:30px;
+    margin-left:300;
+    margin-top:300;
+    color:#5ebda5;
+}
